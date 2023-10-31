@@ -1,4 +1,4 @@
-# The-Immortals-Of-Meluha-NetworkAnalysis
+# Network Analysis of Characters
 
 We have used the text version of the novel - The Immortals of Meluha by Amish Tripathi. This is for research/educational purpose only.
 
